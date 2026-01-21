@@ -1,8 +1,8 @@
-# Harvard CS50 – Introduction to Computer Science  
+# CS50x: Introduction to Computer Science (Harvard University)  
 ## Learning Overview
 
 This repository provides a structured overview of the learning outcomes and academic scope of  
-**Harvard University’s CS50: Introduction to Computer Science**.
+**CS50x: Introduction to Computer Science (Harvard University)**.
 
 To fully respect **Harvard’s academic integrity policy**, this repository intentionally  
 **does not include solutions** to CS50 problem sets.
@@ -29,6 +29,7 @@ Throughout the course, I completed a rigorous curriculum that covered:
 ## Technical Skills Developed
 
 - Algorithmic and analytical thinking
+- Writing efficient and maintainable code
 - Writing efficient and maintainable code
 - Understanding memory-level behavior of programs
 - Designing and querying relational databases
